@@ -71,3 +71,9 @@ vless://290cba8a-4eb3-4c8e-80e9-25f1e1438992@104.21.12.150:80?encryption=none&se
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#%F0%9F%87%AC%F0%9F%87%A7212.102.53.195
 vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@8.219.167.65:80?encryption=none&security=none&type=ws&host=datafransfer.tunn.free.hr&path=%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%87%B8%F0%9F%87%AC%20SG-8.219.167.65%3A80%20%F0%9F%93%A1%20PING-254.84-MS
 vless://ce4b8902-4abf-4dbb-b145-c3b8ad921bda@ch.hopev2ray.link:2087?encryption=none&security=tls&sni=nl49.vlessx.us&fp=randomized&type=ws&host=nl49.vlessx.us&path=%2F%3Fed%3D2048#t.me%2FConfigsHub
+trojan://pjdnqv@15.181.162.90:443?security=tls&sni=aws-us-nyc-1.f1rocketnode.com&type=tcp&headerType=none#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-15.181.162.90%3A443%20%F0%9F%93%A1%20PING-075.60-MS
+trojan://ZjzcW3LXeJ@172.67.221.114:2096?security=tls&sni=amsb.carfin.tech&fp=chrome&type=ws&host=amsb.carfin.tech&path=%2F%40apt_mahdi#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-172.67.221.114%3A2096%20%F0%9F%93%A1%20PING-001.52-MS
+trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:443?security=tls&sni=is2-t.sshmax.xyz&type=ws&host=is2-t.sshmax.xyz&path=%2F#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%87%AE%F0%9F%87%B8%20IS-89.221.224.94%3A443%20%F0%9F%93%A1%20PING-182.28-MS
+trojan://telegram-id-privatevpns@18.153.249.44:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%A9%F0%9F%87%AA%20DE-18.153.249.44%3A22222%20%F0%9F%93%A1%20PING-158.47-MS
+trojan://acacbba-abca-acba-cadb-cbbaaababccc@127.0.0.1:1080?security=tls&type=tcp&headerType=none#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20MON-20-AZAR-1402%20%F0%9F%95%91%2019%3A42
+
