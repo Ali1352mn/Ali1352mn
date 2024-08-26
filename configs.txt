@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%A6%F0%9F%87%AA%20%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%D8%B3%D9%88%D9%85%20%D8%B4%D9%87%D8%B1%DB%8C%D9%88%D8%B1%20%D9%85%D8%A7%D9%87%20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%A6%F0%9F%87%AA%20%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%D9%BE%D9%86%D8%AC%D9%85%20%D8%B4%D9%87%D8%B1%DB%8C%D9%88%D8%B1%20%D9%85%D8%A7%D9%87%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%F0%9F%86%94freakconfig%20%F0%9F%94%92%20SS-TCP-TLS%20%F0%9F%86%A5%F0%9F%86%A5%20%20264ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%F0%9F%86%94v2rayng_vpnrog%20%F0%9F%94%92%20SS-TCP-TLS%20%F0%9F%86%A5%F0%9F%86%A5%20%20266ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%5B%F0%9F%87%A6%F0%9F%87%AA%5Dreza%20hooshmandi
@@ -499,3 +499,6 @@ ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.87.222:7306#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@15.204.87.222:6679#%F0%9F%87%BA%F0%9F%87%B8%20US%2066
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.87.222:443#%F0%9F%87%BA%F0%9F%87%B8%20US%2052
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.113:5004#%F0%9F%87%BA%F0%9F%87%B8%20US%2088
+vless://TELEGRAM-NUFiLTER@speedtest.net:443?encryption=none&security=tls&sni=speedtest.net&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=Trowntk.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#%40nofiltering2
+vless://TELEGRAM-NUFiLTER@141.101.120.104:8880?encryption=none&security=none&type=httpupgrade&host=Gawazn.asve.iR.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8880#%40nofiltering2
+trojan://telegram-id-privatevpns@3.77.69.25:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%28S113%29%F0%9F%87%A9%F0%9F%87%AAt.me%2FPrivateVPNs
